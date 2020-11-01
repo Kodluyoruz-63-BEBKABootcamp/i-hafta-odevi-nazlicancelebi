@@ -8,10 +8,10 @@
 ##  Docker'a ve Docker'a ait kavramlara nelerdir?
 Docker, uygulamalarınızı hızla derlemenizi, test etmenizi ve dağıtmanızı sağlayan bir yazılım platformudur. Docker, yazılımları kitaplıklar, sistem araçları, kod ve çalışma zamanı dahil olmak üzere yazılımların çalışması için gerekli her şeyi içeren **container** adlı standartlaştırılmış birimler halinde paketler. Docker'ı kullanarak her ortama hızla uygulama dağıtıp uygulamaları ölçeklendirebilir ve kodunuzu çalıştırabilirsiniz.
 ### Docker Hakkında Temel Kavramlar
-**Image :** içerisinde uygulamaları barındıran container oluşturmak için kullanılan onceden hazırlanmış paketlerdir.
-**Container :** İmagelardan türetilen host os üzerinde çalışan veya çalışmaya hazır ortamlardır.
-**Dockerfile :** İmage üretmek için önceden belirlenmiş kuralları ve komutları içeren dockera özel dosya yapısı.
-**DockerHub :** Docker imageların paylaşıldığı community deposu diyebiliriz. Bir çok official image barındırılmaktadır.
+- **Image :** içerisinde uygulamaları barındıran container oluşturmak için kullanılan onceden hazırlanmış paketlerdir.
+- **Container :** İmagelardan türetilen host os üzerinde çalışan veya çalışmaya hazır ortamlardır.
+- **Dockerfile :** İmage üretmek için önceden belirlenmiş kuralları ve komutları içeren dockera özel dosya yapısı.
+- **DockerHub :** Docker imageların paylaşıldığı community deposu diyebiliriz. Bir çok official image barındırılmaktadır.
 ### Avantajları Nelerdir?
 -	Docker, Hypervisor kullanmaz ve tam yüklü bir işletim sistemi barındırmaz bu sayede saniyeler içinde çalışır ve kullanıma hazır hale gelir.
 -	Docker, yazılımlarınızın tüm altyapı gereksinimlerini kod olarak saklar. (versiyonlama) Bu Docker'ın en önemli özelliklerinden biridir. Bu özellik sayesinde yazılımınızı farklı servis sağlayıcıları üzerinde kolaylıkla gezindirebilir, çoğaltabilir veya paylaşabilirsiniz.
@@ -124,5 +124,4 @@ Kodun kalitesi yazılım kalitesi demektir ve Yazılım Kalitesi ölçme işlemi
 * Gereksiz Kod (Redundant Code)
 * İşlev Noktaları (Function Points) 
 * Gramer (Grammar) 
-* Kod Tekrarları (Duplicate Code) 
-gibi özelliklerine bakılarak yazılımın mevcut kalitesini ölçmek , sorunlu birimleri bulmak, teknik borcu kontrol altında tutabilmek, tazılımın/ürünün gelecekteki durumu hakkında öngörüde bulunabilmek demektir.
+* Kod Tekrarları (Duplicate Code)  gibi özelliklerine bakılarak yazılımın mevcut kalitesini ölçmek , sorunlu birimleri bulmak, teknik borcu kontrol altında tutabilmek, tazılımın/ürünün gelecekteki durumu hakkında öngörüde bulunabilmek demektir.
