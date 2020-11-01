@@ -5,7 +5,7 @@
 - StackOverFlow adresime [buradan](https://stackoverflow.com/users/14511161/nazlicancelebi) ulaşabilirsiniz.
 - Visual Studio benefitlerinden yararlanmak için Microsoft hesabı açıldı.
 
-## - Docker'a ve Docker'a ait kavramlara nelerdir?
+##  Docker'a ve Docker'a ait kavramlara nelerdir?
 Docker, uygulamalarınızı hızla derlemenizi, test etmenizi ve dağıtmanızı sağlayan bir yazılım platformudur. Docker, yazılımları kitaplıklar, sistem araçları, kod ve çalışma zamanı dahil olmak üzere yazılımların çalışması için gerekli her şeyi içeren **container** adlı standartlaştırılmış birimler halinde paketler. Docker'ı kullanarak her ortama hızla uygulama dağıtıp uygulamaları ölçeklendirebilir ve kodunuzu çalıştırabilirsiniz.
 ### Docker Hakkında Temel Kavramlar
 **Image :** içerisinde uygulamaları barındıran container oluşturmak için kullanılan onceden hazırlanmış paketlerdir.
